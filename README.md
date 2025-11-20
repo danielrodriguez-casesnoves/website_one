@@ -13,10 +13,10 @@ This project was created as a tribute to the video game *The Red Strings Club*, 
 <br>
 There are two ways to properly view the website:
 1. **Opening the *index.html* file locally:**  You can navigate through the site directly, and all links are fully functional, including those in the image gallery. No local server is required.
-2. **- Accessing it via the following link:** <https://danielrodriguez-casesnoves.github.io/website_one/>
+2. **- Accessing it via the following link:** [Github Pages Link](https://danielrodriguez-casesnoves.github.io/website_one/)
 <br>
 <br>
 <br>
 <br>
 ##HTML5up.NET Template used: "Spectral"
-<https://html5up.net/spectral>
+[Link](https://html5up.net/spectral)
